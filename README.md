@@ -1,4 +1,3 @@
-Project Name
 This project focuses on Bone Age Assessment (BAA) using machine learning models. It includes several Jupyter notebooks that demonstrate different approaches to BAA.
 
 Table of Contents
