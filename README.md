@@ -15,11 +15,9 @@ Installation
 To set up the project, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/nithin200417/BoneAgeAssessmentDL.git
 cd your-repo
 
-Install the required dependencies:
-pip install -r requirements.txt
 
 Usage
 Run the notebooks to explore the following models:
@@ -30,10 +28,15 @@ Description: This notebook demonstrates bone age assessment using VGG16 with fea
 2. BAA using XceptionNet
 File: newmlbaa.ipynb
 Description: Explore BAA using XceptionNet. Compare it with VGG16, discuss differences, and evaluate performance.
+3. Comparision of performances of different models in BAA
+File: deepmodelsbaa.ipynb
+4. The performance of the Densenet101 and Resnet%0 and Xceptionnet were demonstrated in the given codes
+File: deepbaa.ipynb
+File: newdensenet.ipynb
+File: baausingxception.ipynb
+File: deeplove.ipynb
 Contributing
-Contributions are welcome! If you’d like to improve the project, report issues, or add new features, please follow our guidelines in the CONTRIBUTING.md file.
+Contributions are welcome! If you’d like to improve the project, report issues, or add new features, please provide your support by contacting me.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize this template to match your project specifics. Good luck with your bone age assessment project! 😊🦴🔍
