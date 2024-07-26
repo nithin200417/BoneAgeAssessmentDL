@@ -36,6 +36,3 @@ File: baausingxception.ipynb
 File: deeplove.ipynb
 Contributing
 Contributions are welcome! If you’d like to improve the project, report issues, or add new features, please provide your support by contacting me.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
