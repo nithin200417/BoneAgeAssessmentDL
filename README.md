@@ -20,7 +20,7 @@ The goal of this project is to estimate bone age from X-ray images using machine
 To set up the project, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/nithin200417/BoneAgeAssessmentDL.git cd your-repo
+git clone https://github.com/nithin200417/BoneAgeAssessmentDL.git 
 
 ## Usage
 
