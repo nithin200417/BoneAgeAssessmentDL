@@ -30,7 +30,7 @@ File: newmlbaa.ipynb
 Description: Explore BAA using XceptionNet. Compare it with VGG16, discuss differences, and evaluate performance.
 3. Comparision of performances of different models in BAA
 File: deepmodelsbaa.ipynb
-4. The performance of the Densenet101 and Resnet%0 and Xceptionnet were demonstrated in the given codes
+4. The performance of the Densenet101 and Resnet50 and Xceptionnet were demonstrated in the given codes
 File: deepbaa.ipynb
 File: newdensenet.ipynb
 File: baausingxception.ipynb
